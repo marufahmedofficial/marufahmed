@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Mobile Application Developer <br>👯 I’m looking to work as a software developer<br>🌱 I’m currently learning Dart & Flutter<br>💬 Ask me about anything related to Graphic Design, video editing or software development <br>⚡ Fun fact: I can work straight 8 hours everyday if its about coding :3<br>💫 I can work with C, C++, Dart, Flutter, Python, Java, JavaScript, SQL, MySQL, XML, HTML, CSS, etc.
+🔭 I’m currently working as a Mobile Application Developer <br>👯 I’m looking to work as a software developer<br>-💬 Ask me about anything related to Graphic Design, video editing or software development <br>⚡ Fun fact: I can work straight 8 hours everyday if its about coding :3<br>💫 I can work with C, C++, Dart, Flutter, Python, Java, JavaScript, SQL, MySQL, XML, HTML, CSS, etc.
 
 
 # 💻 Tech Stack:
